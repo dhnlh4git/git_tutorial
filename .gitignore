@@ -1,5 +1,8 @@
 # My additions
 *.swp
+*.o
+*.exe
+*~
 
 # Windows image file caches
 Thumbs.db
